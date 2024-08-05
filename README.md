@@ -22,7 +22,7 @@ Before running the app, ensure you have the following installed:
 
     bash
     git clone <[repository-url](https://github.com/francesseyram/Intro-To-AI-Final-Project.git)>
-    cd <[[repository-folder](https://github.com/francesseyram/Intro-To-AI-Final-Project.git)](https://github.com/francesseyram/Intro-To-AI-Final-Project/tree/main)>
+    cd <[[repository-folder](https://github.com/francesseyram/Intro-To-AI-Final-Project/tree/main)]>
     
 
 2. *Create a Virtual Environment (optional but recommended):*
