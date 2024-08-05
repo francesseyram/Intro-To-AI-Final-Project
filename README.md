@@ -44,9 +44,6 @@ Before running the app, ensure you have the following installed:
 
     Make sure you have the trained models and preprocessors saved as .joblib files in the root directory:
     - rf_model_effective.joblib
-    - rf_model_ease_of_use.joblib
-    - rf_model.joblib
-    - xgboost_model.joblib
     - label_encoders.joblib
     - scaler.joblib
 
