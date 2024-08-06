@@ -6,7 +6,6 @@ This project is a Streamlit application designed to predict the effectiveness of
 *Note:* The predictions are based on a simplified model and should be taken with caution. The model uses limited information and random values for many features, which may affect the accuracy of the predictions.
 
 ## Features
-
 - Predicts drug effectiveness based on the drug name and the condition.
 - Provides a visual representation of the predicted effectiveness.
 - Includes a sidebar with information about the limitations of the model.
